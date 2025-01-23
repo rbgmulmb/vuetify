@@ -16,7 +16,6 @@
     "location": "Keller, TX, USA",
     "name": "John Leider",
     "team": "company",
-    "twitter": "zeroskillz",
     "work": "Engineer @ Vuetify",
     "joined": "Jun 2016"
   },
@@ -31,7 +30,6 @@
     "location": "Keller, TX, USA",
     "name": "Heather Leider",
     "team": "company",
-    "twitter": "grneyedgrl01",
     "work": "COO @ Vuetify",
     "joined": "Nov 2019"
   },
@@ -53,7 +51,6 @@
     "location": "Melbourne, Australia",
     "name": "Kael Watts-Deuchar",
     "team": "core",
-    "twitter": "kaelwd",
     "joined": "Oct 2017"
   },
   "nekosaur": {
@@ -84,7 +81,6 @@
     "location": "Rochester, NY, USA",
     "name": "Andrew Henry",
     "team": "core",
-    "twitter": "SeeMWhyK",
     "joined": "Dec 2018"
   },
   "blalan05": {
@@ -128,7 +124,6 @@
     ],
     "location": "Madrid, Spain",
     "name": "Joaquín Sánchez",
-    "twitter": "userquin",
     "team": "core",
     "joined": "Mar 2024"
   },
@@ -149,7 +144,6 @@
     "location": "California, US",
     "name": "Ken Kieu",
     "team": "core",
-    "twitter": "kieuminhcanh",
     "joined": "April 2024"
   },
   "MatthewAry": {
@@ -162,11 +156,24 @@
     ],
     "location": "Spokane, WA, USA",
     "name": "Matthew Ary",
-    "twitter": "MatthewAry",
     "linkedin": "matthewary",
     "work": "Director of Product Development at Symplsoft Inc.",
     "team": "core",
     "joined": "May 2024"
+  },
+  "J-Sek": {
+    "discord": "jacek#1420",
+    "focus": [
+      "[vuetifyjs/studio](https://github.com/vuetifyjs/studio)"
+    ],
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "location": "Gdańsk, Poland",
+    "name": "Jacek Czarniecki",
+    "team": "core",
+    "joined": "Nov 2024"
   },
   "jacekkarczmarczyk": {
     "discord": "jacek#3542",
@@ -231,7 +238,6 @@
       "English",
       "Persian"
     ],
-    "twitter": "yooneskh",
     "linkedin": "yooneskh ",
     "location": "Iran",
     "name": "Yoones Khoshghadam",
@@ -251,5 +257,18 @@
     "name": "Elvina Garcia",
     "team": "legends",
     "joined": "Feb 2023"
+  },
+  "iNSaNiA0821": {
+    "discord": "housexpot",
+    "focus": [
+      "[vuetifyjs/*](https://github.com/vuetifyjs)"
+    ],
+    "languages": [
+      "English"
+    ],
+    "location": "Nagoya, Japan",
+    "name": "Shinji Sakai",
+    "team": "core",
+    "joined": "Oct 2024"
   }
 }
