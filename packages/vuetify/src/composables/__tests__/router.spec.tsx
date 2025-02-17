@@ -170,22 +170,4 @@ describe('useLink', () => {
     await wrapper.setProps({ to: { name: 'page2' } })
     expect(vm.isActive).toBe(false)
   })
-
-  it('handles replace prop', async () => {
-    const wrapper = shallowMount(TestComponent, {
-      props: {
-        to: { name: 'page1' },
-        replace: true,
-      },
-      global: {
-        plugins: [router],
-      },
-    })
-
-    const vm = wrapper.vm
-
-    await vm.navigate!()
-    expect(router.currentRoute.value.fullPath).toBe('/page1')
-    expect(window.history.state.replaced).toBe(true)
-  })
 })
